@@ -1,0 +1,9 @@
+
+{
+    "region" : "ap-northeast-1",
+    "profile" : "default",
+    "configuration" : "Release",
+    "image-tag"     : "apprunnertestwebapplication:latest",
+    "docker-build-working-dir" : "",
+    "vstoolkit-deployment-mode" : "PushOnly"
+}
